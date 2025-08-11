@@ -1,0 +1,26 @@
+body{
+    justify-content: center;
+    text-align: center;
+    background-color: rgb(23, 123, 138);
+}
+nav {
+    background-color: black;
+}
+a {
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    font-size: xx-large;
+    padding: 35px;
+}
+p{
+    background-color: rgb(144, 206, 206);
+}
+img{
+    width: 500px;
+    height: 500px;
+    justify-content: center;
+}
+h1{
+    color: rgb(13, 236, 128);
+}

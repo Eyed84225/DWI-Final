@@ -1,0 +1,15 @@
+nav {
+    background-color: black;
+}
+a {
+    color: white;
+    text-decoration: none;
+    text-align: center;
+    font-size: xx-large;
+    padding: 50px;
+}
+body{
+    justify-content: center;
+    text-align: center;
+    background-color: rgb(251, 51, 204);
+}
